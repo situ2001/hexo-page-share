@@ -1,0 +1,10 @@
+{
+  "name": "hexo-page-share",
+  "version": "1.0.0",
+  "main": "index",
+  "author": "situ2001",
+  "license": "MIT",
+  "dependencies": {
+    "yaqrcode": "^0.2.1"
+  }
+}

@@ -7,7 +7,7 @@ This is a simple hexo plugin used to generating QR code of URL of the current pa
 Install to your hexo blog folder.
 
 ```powershell
-
+npm install hexo-page-share
 ```
 
 Add a statement to your `ejs` or `njk` template, so that the QR code can be correctly rendered when you run `hexo g`.

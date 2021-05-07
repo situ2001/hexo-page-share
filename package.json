@@ -4,6 +4,10 @@
   "main": "index",
   "author": "situ2001",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/situ2001/hexo-page-share"
+  },
   "dependencies": {
     "yaqrcode": "^0.2.1"
   }
